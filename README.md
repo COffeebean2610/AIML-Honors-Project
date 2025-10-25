@@ -40,6 +40,7 @@ This project implements a Long Short-Term Memory (LSTM) neural network to predic
 4. **Training**: Trains on 60% of data, validates on 40%
 5. **Prediction**: Predicts next 30 days of Bitcoin prices
 6. **Visualization**: Creates interactive plots using Plotly
+   [Bitcoin AI Prediction Dashboard.pdf](https://github.com/user-attachments/files/23139652/Bitcoin.AI.Prediction.Dashboard.pdf)
 
 ## Key Features
 
@@ -91,6 +92,7 @@ The model provides:
 
 If you encounter import errors:
 1. Run `python fix_keras.py` to fix Keras issues
+
 2. Ensure all packages are installed: `pip install -r requirements.txt`
 3. Check Python version compatibility
 
