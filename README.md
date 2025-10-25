@@ -40,7 +40,17 @@ This project implements a Long Short-Term Memory (LSTM) neural network to predic
 4. **Training**: Trains on 60% of data, validates on 40%
 5. **Prediction**: Predicts next 30 days of Bitcoin prices
 6. **Visualization**: Creates interactive plots using Plotly
-   [Bitcoin AI Prediction Dashboard.pdf](https://github.com/user-attachments/files/23139652/Bitcoin.AI.Prediction.Dashboard.pdf)
+
+   
+<img width="1875" height="387" alt="Screenshot 2025-10-25 114351" src="https://github.com/user-attachments/assets/daae8d95-9531-4bd7-b1c6-973eea6eddf0" />
+<img width="1885" height="895" alt="Screenshot 2025-10-25 114443" src="https://github.com/user-attachments/assets/806b2a23-0c70-427d-9454-cafda374c68f" />
+<img width="1887" height="893" alt="Screenshot 2025-10-25 114520" src="https://github.com/user-attachments/assets/05ed8066-84f4-4750-97a9-77fe44fb6ca8" />
+<img width="1893" height="894" alt="Screenshot 2025-10-25 114548" src="https://github.com/user-attachments/assets/02efd1ab-bf21-441f-b134-43894618d4b7" />
+<img width="1881" height="891" alt="Screenshot 2025-10-25 114624" src="https://github.com/user-attachments/assets/d69af06d-7bfa-4564-b9cb-8510bc8a451d" />
+<img width="1891" height="893" alt="Screenshot 2025-10-25 114651" src="https://github.com/user-attachments/assets/c0b1e608-f673-4cb5-8abb-d5b3f3e16aea" />
+
+
+
 
 ## Key Features
 
